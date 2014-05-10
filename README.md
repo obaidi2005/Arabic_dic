@@ -1,0 +1,4 @@
+Arabic_dic
+==========
+
+ArabicByObaidi
